@@ -191,7 +191,7 @@ function TaskManager() {
           </span>
         </div>
         <div className="db-info">
-          <span>Database: <strong>MongoDB (task_manager_24cs051)</strong></span>
+          <span>Database: <strong>MongoDB (task_manager_24cs050)</strong></span>
           <button type="button" className="refresh-btn" onClick={fetchTasksList} title="Sync with MongoDB">
             ↻ Sync
           </button>
