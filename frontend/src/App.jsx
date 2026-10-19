@@ -15,13 +15,13 @@ function App() {
 
   // Student and academic portfolio data
   const studentInfo = {
-    name: 'Vivek Maheshwari',
-    id: '24CS050',
+    name: 'Parth Patel',
+    id: '24CS069',
     department: 'Department of Computer Science and Engineering',
     institution: 'Chandubhai S Patel Institute of Technology (CSPIT), CHARUSAT',
     academicYear: '2025-26',
-    email: '24cs050@charusat.edu.in',
-    githubUrl: 'https://github.com/24CS050Vivek',
+    email: '24cs069@charusat.edu.in',
+    githubUrl: 'https://github.com/24CS069Parth',
     bio: 'Third-year B.Tech Computer Science and Engineering student at CSPIT, Charusat. Passionate about modern web architecture, component-driven design, and building scalable full-stack web applications. Currently mastering React, Vite, Node.js, and advanced development frameworks through hands-on coursework.',
   };
 

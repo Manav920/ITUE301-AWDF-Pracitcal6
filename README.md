@@ -2,8 +2,8 @@
 ## Practical 6: Full Stack Integration (React + Node.js + MongoDB)
 
 ### Student Details
-- **Student ID:** 24CS050
-- **Student Name:** Vivek Maheshwari
+- **Student ID:** 24CS069
+- **Student Name:** Parth Patel
 - **Subject Code & Name:** CSE304 / ITUE301: Advanced Web Development Frameworks
 - **Department:** Department of Computer Science and Engineering
 - **Institution:** Chandubhai S Patel Institute of Technology (CSPIT), CHARUSAT
@@ -28,7 +28,7 @@ Express REST API (Node.js @ http://localhost:5000)
  │  [Route Handlers with Try/Catch]
  ▼
 Mongoose ODM & MongoDB Database (@ localhost:27017)
- └── Database: task_manager_24cs050 (collection: tasks)
+ └── Database: task_manager_24cs069 (collection: tasks)
  │
  ▼
 Response Flow:

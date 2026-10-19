@@ -12,7 +12,7 @@ function Projects({ projectList }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [simulateError, setSimulateError] = useState(false);
 
-  const username = '24CS050Vivek';
+  const username = '24CS069Parth';
 
   const fetchRepositories = () => {
     setLoading(true);
