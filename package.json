@@ -1,5 +1,5 @@
 {
-  "name": "full-stack-task-manager-24cs069",
+  "name": "full-stack-task-manager-24cs048",
   "version": "1.0.0",
   "description": "Full Stack Integration of React frontend with Node/Express/MongoDB backend - Practical 6",
   "scripts": {
@@ -8,6 +8,6 @@
     "install:all": "cd backend && npm install && cd ../frontend && npm install"
   },
   "keywords": ["mern", "full-stack", "react", "express", "mongodb", "mongoose", "itue301"],
-  "author": "Parth Patel (24CS069)",
+  "author": "Manav Lathiya (24CS048)",
   "license": "ISC"
 }
